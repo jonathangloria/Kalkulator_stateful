@@ -18,4 +18,4 @@ Calculator program using stateful EJB
 4. Terakhir tekan button ‘=’, maka display menampilkan hasil perhitungan dan menampilkan operator ‘=’
 ![Screenshot_7](https://user-images.githubusercontent.com/58509960/83779620-66f7dc80-a6b6-11ea-80df-d8eb9b58741f.jpg)
 
-5. Singkatnya, kita hanya perlu menekan button yang ada dengan urutan button yang ditekan adalah: 3  *  4  +  5  =.
+5. Singkatnya, kita hanya perlu menekan button yang ada dengan urutan button yang ditekan adalah: 3 --> * --> 4 --> + --> 5 --> =.
